@@ -57,12 +57,14 @@ For iOS and Android development, follow the on-screen instructions to open the a
 This will run the frontend application on a development server and open it in your default web browser.
 
 
-![Screenshot 2023-09-20 073805](https://github.com/Pradyumancoder/Validation-Form/assets/97114184/5a3402e8-7504-4e51-a394-2d21450c57fd)
 
-![Screenshot 2023-09-20 073743](https://github.com/Pradyumancoder/Validation-Form/assets/97114184/7d8c963a-d8c1-47dd-a240-8b2b6b8da99d)
 
 </details>
 
 ## Usage
 Once the backend and frontend are running, you can access the Validation Form application by opening a web browser and navigating to:
   http://localhost:19006/
+
+  ![Screenshot 2023-09-20 073805](https://github.com/Pradyumancoder/Validation-Form/assets/97114184/5a3402e8-7504-4e51-a394-2d21450c57fd)
+
+![Screenshot 2023-09-20 073743](https://github.com/Pradyumancoder/Validation-Form/assets/97114184/7d8c963a-d8c1-47dd-a240-8b2b6b8da99d)
