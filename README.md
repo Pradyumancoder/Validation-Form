@@ -24,7 +24,8 @@ This will run the backend server on port 3000.
 ## Frontend Setup
 <details>
 <summary>Click to expand</summary>
-1. Navigate to the validation-form directory
+1. Navigate to the `Validation-Form` directory:
+   ``` shell
 cd validation-form
 
 2. Install the required dependencies:
