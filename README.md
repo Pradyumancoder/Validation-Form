@@ -7,6 +7,6 @@ This repository contains both the backend and frontend code for the Validation F
 <details>
 <summary>Click to expand</summary>
 
-1. Navigate to the `backend` directory:
+1. Navigate to the `Validation-Form` directory:
    ```shell
-   cd backend
+   cd backend-part
