@@ -1,7 +1,15 @@
-![Screenshot 2023-09-20 073922](https://github.com/Pradyumancoder/Validation-Form/assets/97114184/93bf328b-2ef8-4167-8887-66021ec7e146)
-![Screenshot 2023-09-20 073805](https://github.com/Pradyumancoder/Validation-Form/assets/97114184/5a3402e8-7504-4e51-a394-2d21450c57fd)
-![Screenshot 2023-09-20 073743](https://github.com/Pradyumancoder/Validation-Form/assets/97114184/7d8c963a-d8c1-47dd-a240-8b2b6b8da99d)
+
 # Validation Form Project
+
+# Tech Stack Used
+
+1-React-Native
+2-Express.js
+3-MongoDB
+4-javaScript
+5-nodemailer
+6-nodemon
+7-mongoose
 
 ## Description
 This repository contains both the backend and frontend code for the Validation Form project.
@@ -47,6 +55,10 @@ For web development, you can also choose to run the app in a web browser. When p
 For iOS and Android development, follow the on-screen instructions to open the app on your respective devices.
 
 This will run the frontend application on a development server and open it in your default web browser.
+
+![Screenshot 2023-09-20 073922](https://github.com/Pradyumancoder/Validation-Form/assets/97114184/93bf328b-2ef8-4167-8887-66021ec7e146)
+![Screenshot 2023-09-20 073805](https://github.com/Pradyumancoder/Validation-Form/assets/97114184/5a3402e8-7504-4e51-a394-2d21450c57fd)
+![Screenshot 2023-09-20 073743](https://github.com/Pradyumancoder/Validation-Form/assets/97114184/7d8c963a-d8c1-47dd-a240-8b2b6b8da99d)
 
 </details>
 
