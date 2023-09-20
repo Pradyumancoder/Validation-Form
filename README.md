@@ -37,6 +37,12 @@ npm install
 3. Start the frontend development server:
 npm start
 
+This will start the Expo development server. You can access your app by scanning the QR code with the Expo Go app on your mobile device or by running the app in an emulator/simulator on your computer.
+
+For web development, you can also choose to run the app in a web browser. When prompted, type 'w' to open the app in a web window.
+
+For iOS and Android development, follow the on-screen instructions to open the app on your respective devices.
+
 This will run the frontend application on a development server and open it in your default web browser.
 
 </details>
